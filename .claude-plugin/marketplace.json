@@ -1,0 +1,15 @@
+{
+  "name": "claude-tools",
+  "description": "Internal Claude Code tools.",
+  "owner": {
+    "name": "Xavier Lamorlette"
+  },
+  "plugins": [
+    {
+      "name": "slack-smallest-channels",
+      "source": "./plugins/slack-smallest-channels",
+      "description": "Find the smallest Slack channels you share with a set of users.",
+      "keywords": ["slack", "channels"]
+    }
+  ]
+}

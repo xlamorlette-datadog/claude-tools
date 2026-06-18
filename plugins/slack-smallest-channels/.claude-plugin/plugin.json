@@ -1,0 +1,9 @@
+{
+  "name": "slack-smallest-channels",
+  "description": "Find the smallest Slack channels you share with a set of users.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Xavier Lamorlette"
+  },
+  "keywords": ["slack", "channels"]
+}
